@@ -1,0 +1,6 @@
+﻿  main.c
+E:\TABLE\VS\C_Test\U5\main\main.c(8,14): warning C4101: “k”: 未引用的局部变量
+E:\TABLE\VS\C_Test\U5\main\main.c(8,11): warning C4101: “j”: 未引用的局部变量
+E:\TABLE\VS\C_Test\U5\main\main.c(8,16): warning C4101: “flag”: 未引用的局部变量
+E:\TABLE\VS\C_Test\U5\main\main.c(49,10): warning C4098: “cacul”:“void”函数返回值
+  main.vcxproj -> E:\TABLE\VS\C_Test\U5\main\Debug\main.exe
